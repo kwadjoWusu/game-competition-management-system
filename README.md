@@ -1,1 +1,1 @@
-# Web-Tech-FinalProject-GameCompetitionManagement
+# Game Competition Management System
